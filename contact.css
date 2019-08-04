@@ -1,0 +1,29 @@
+tr {
+  height: 7rem;
+}
+
+th{
+  width: 150px;
+  text-align: right;
+}
+
+.contact_form{
+  width: 480px;
+  margin: 15px;
+}
+
+.botan{
+  background: #FF99CC;
+  padding: 2rem 4rem;
+  font-size: 2rem;
+  color: white;
+}
+
+.botan:hover {
+  opacity: 0.5;
+}
+
+.input_wrapper{
+  position: absolute;
+  right: 25%;
+}
